@@ -1,0 +1,7 @@
+db.sqlite3
+.log
+.pyc
+.pot
+__pycache__
+media
+.vscode
